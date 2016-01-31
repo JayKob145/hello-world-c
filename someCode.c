@@ -9,3 +9,4 @@ main(){
  
  printf("The value of j is \n",j);
 }
+
